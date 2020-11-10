@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'cpivas'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f73346d159ff46e496274c284a27c75c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0bbeae9669d24c45b0f9ee4af5195df3 }}
         package: .
